@@ -5,7 +5,6 @@ import ItemDetailContainer from './components/ItemDetailContainer/ItemDetailCont
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { CarritoProvider } from './Context/CarritoContext';
 import Cart from './components/Cart/Cart';
-import AgregarProducto from './components/AgregarProducto/AgregarProducto copy';
 import Checkout from './components/Checkout/Checkout';
 
 function App() {

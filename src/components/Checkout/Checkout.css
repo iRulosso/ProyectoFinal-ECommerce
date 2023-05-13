@@ -1,0 +1,25 @@
+form{
+    background-color: white;
+    display: block;
+    align-items: center;
+    border: 2px solid black;
+    padding: 1rem;
+    width: 50rem;
+    margin: auto;
+    margin-top: 1rem;
+}
+h2{
+    text-decoration: underline;
+}
+.campos
+{
+    border: 2px solid gray;
+    width: 15rem;
+    display: block;
+    padding: 1rem;
+    margin: auto;
+}
+
+label{
+    display: block;
+}

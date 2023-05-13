@@ -1,0 +1,35 @@
+.pulsador{
+    margin: 0.5rem;
+    background-color: #188827;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    color: #ffffff;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    cursor: pointer;
+    width: 3rem;
+}
+
+.Agregar{
+    margin: 1rem;
+    background-color: #1f9731;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    color: #ffffff;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    cursor: pointer;
+    width: 7rem;
+}
+
+.contador{
+    display: flex;
+}

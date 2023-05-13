@@ -1,0 +1,7 @@
+.cartItem{
+    display: flex;
+}
+
+img{
+    width: 10rem;
+}

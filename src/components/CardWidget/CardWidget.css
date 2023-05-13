@@ -1,0 +1,24 @@
+.imgCarrito {
+    width: 2.4rem;
+    display: inline-block;
+}
+
+.aa{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 1rem;
+    text-decoration: none;
+    color: white;
+}
+
+p{
+    padding: 0.5rem;
+    text-decoration: none;
+}
+
+.cantidad
+{
+    color: greenyellow;
+    text-decoration: none;
+}

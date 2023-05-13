@@ -1,0 +1,62 @@
+.cardProducto {
+    background-color: rgb(218, 218, 218);
+    border-radius: 0;
+    width: 15rem;
+    height: 25rem;
+    padding: 0rem;
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 5px solid rgb(255, 255, 255);
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.9);
+    position: relative;
+}
+
+.cardProducto:hover{
+    box-shadow: 0 0px  10px rgba(34, 255, 0, 1);
+}
+
+.imgProduct {
+    width: 15rem;
+    object-fit: contain;
+}
+
+.precio{
+    color: #6a00c7;
+    font-weight: bold;
+    font-size: 2rem;
+    margin: 0;
+    position: absolute;
+    bottom: 40px;
+}
+
+.btnProduct {
+    background-color: rgb(26, 159, 68);
+    font-size: 1.2rem;
+    color: white;
+    width: 8rem;
+    border-radius: 10px;
+    border: none;
+}
+
+.texto {
+    margin: 0;
+}
+
+.boton {
+    background-color: #13a232;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    color: #ffffff;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    cursor: pointer;
+    margin-bottom: 1rem;
+    position: absolute;
+    bottom: 0;
+}

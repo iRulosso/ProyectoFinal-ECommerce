@@ -1,0 +1,12 @@
+.subtitulo {
+    text-align: center;
+    color: red;
+}
+
+.categoriaTitulo{
+    font-size: 2rem;
+    padding: 0;
+    margin: 0;
+    margin-left: 2rem;
+    font-weight: bold;
+}
